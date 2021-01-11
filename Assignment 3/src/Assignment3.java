@@ -104,7 +104,7 @@ public class Assignment3 {
 		int coursestaken;
 		System.out.println("Courses Taken");
 		System.out.print("Enter Total Courses Do You Want To Take : ");
-	    int courses = in.nextInt();
+	    	int courses = in.nextInt();
 		if(courses==1) {
 			System.out.print("What Courses Do You Want To Take? ");
 			System.out.println("Press 1 for courses1 ; Press 2 for courses2 ; Press 3 for courses3");
